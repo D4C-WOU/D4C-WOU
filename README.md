@@ -157,17 +157,17 @@ A full-stack Leave Management System that lets organizations manage employee lea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D4C-WOU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a103d&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="49%" />
+<img src="https://github-readme-stats-omega-ten-96.vercel.app/api?username=D4C-WOU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a103d&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4C-WOU&theme=tokyonight&hide_border=true&background=1a103d&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4C-WOU&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a103d&title_color=A78BFA&text_color=E9D5FF" width="49%" />
+<img src="https://github-readme-stats-omega-ten-96.vercel.app/api/top-langs/?username=D4C-WOU&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a103d&title_color=A78BFA&text_color=E9D5FF" width="49%" />
 
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=D4C-WOU&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://raw.githubusercontent.com/D4C-WOU/D4C-WOU/output/trophy.svg" width="100%"/>
 </div>
 
 ## 📈 Contribution Activity
