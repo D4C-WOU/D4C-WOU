@@ -182,7 +182,6 @@ A full-stack Leave Management System that lets organizations manage employee lea
 <img src="https://raw.githubusercontent.com/D4C-WOU/D4C-WOU/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>To activate the snake animation, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named `D4C-WOU/D4C-WOU` — it generates the SVG above automatically on a schedule.</sub>
 
 <br/>
 
